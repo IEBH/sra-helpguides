@@ -8,28 +8,26 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        SR-Accelerator was designed from the ground up to be easy and intuitive to use to speed up your systematic review.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Eliminate Menial Tasks',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        SR-Accelerator lets you focus on the meaningful work, and we&apos;ll do the chores. Go
+        ahead and try for yourself.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Save Time',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Using SR-Accelerator could help reduce the workload of your Systematic Review by 20-50%
       </>
     ),
   },
