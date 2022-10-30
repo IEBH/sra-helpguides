@@ -13,7 +13,11 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
-  "author": "Matt Carter <m@ttcarter.com>",
+  "author": [
+    "Justin Cark <jclark@bond.edu.au> (https://github.com/Justin-Clarc)",
+    "Matt Carter <m@ttcarter.com> (https://github.com/hash-bang)",
+    "Connor Forbes <cforbes.software@gmail.com> (https://github.com/connorf25)"
+  ],
   "license": "MIT",
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.6",
